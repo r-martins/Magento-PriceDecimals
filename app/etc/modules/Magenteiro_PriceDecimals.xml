@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Magenteiro_PriceDecimals>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Adminhtml/>
+                <Mage_Core/>
+                <Mage_Directory/>
+            </depends>
+        </Magenteiro_PriceDecimals>
+    </modules>
+</config>

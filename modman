@@ -1,0 +1,11 @@
+app/etc/modules/Magenteiro_PriceDecimals.xml app/etc/modules/Magenteiro_PriceDecimals.xml
+app/code/community/Magenteiro/PriceDecimals/etc/system.xml app/code/community/Magenteiro/PriceDecimals/etc/system.xml
+app/code/community/Magenteiro/PriceDecimals/etc/config.xml app/code/community/Magenteiro/PriceDecimals/etc/config.xml
+app/code/community/Magenteiro/PriceDecimals/Model/Core/Store.php app/code/community/Magenteiro/PriceDecimals/Model/Core/Store.php
+app/code/community/Magenteiro/PriceDecimals/Model/Sales/Order.php app/code/community/Magenteiro/PriceDecimals/Model/Sales/Order.php
+app/code/community/Magenteiro/PriceDecimals/Model/Directory/Currency.php app/code/community/Magenteiro/PriceDecimals/Model/Directory/Currency.php
+app/code/community/Magenteiro/PriceDecimals/Block/Adminhtml/Sales/Order/View/Items/Renderer/Default.php app/code/community/Magenteiro/PriceDecimals/Block/Adminhtml/Sales/Order/View/Items/Renderer/Default.php
+app/code/community/Magenteiro/PriceDecimals/Block/Adminhtml/Sales/Items/Renderer/Default.php app/code/community/Magenteiro/PriceDecimals/Block/Adminhtml/Sales/Items/Renderer/Default.php
+app/code/community/Magenteiro/PriceDecimals/Block/Adminhtml/Catalog/Product/Helper/Form/Price.php app/code/community/Magenteiro/PriceDecimals/Block/Adminhtml/Catalog/Product/Helper/Form/Price.php
+LICENSE LICENSE
+package.xml package.xml

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Magenteiro_PriceDecimals</name>
+    <version>1.0.0</version>
+    <stability>beta</stability>
+    <license uri="https://opensource.org/licenses/MIT">MIT</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Adds option to configure price decimals</summary>
+    <description>Adds option to configure price decimals</description>
+    <notes>First Release</notes>
+    <authors><author><name>Ricardo Martins</name><user>MAG001517858</user><email>pagseguro-transparente@ricardomartins.net.br</email></author></authors>
+    <date>2018-06-15</date>
+    <time>08:23:11</time>
+    <contents><target name="magecommunity"><dir name="Magenteiro"><dir name="PriceDecimals"><dir name="Block"><dir name="Adminhtml"><dir name="Catalog"><dir name="Product"><dir name="Helper"><dir name="Form"><file name="Price.php" hash="6ae15939356615a6ab1d37b64e5f19b2"/></dir></dir></dir></dir><dir name="Sales"><dir name="Items"><dir name="Renderer"><file name="Default.php" hash="691fbde03d58b303bae4f3684050f4d6"/></dir></dir><dir name="Order"><dir name="View"><dir name="Items"><dir name="Renderer"><file name="Default.php" hash="1c3458121033fe43a25276439da7a986"/></dir></dir></dir></dir></dir></dir></dir><dir name="Model"><dir name="Core"><file name="Store.php" hash="452a56300f907910ced0bf9f3901d340"/></dir><dir name="Directory"><file name="Currency.php" hash="f42185bd0be44a83d09c4281bbcb38a4"/></dir><dir name="Sales"><file name="Order.php" hash="30b76601b2ff59f932e042ceeaaa75a3"/></dir></dir><dir name="etc"><file name="config.xml" hash="bd7125c82bd379e53481224524d768bb"/><file name="system.xml" hash="914272c429313392ce573f8ddc2a3005"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Magenteiro_PriceDecimals.xml" hash="bf34a08ee680fbf43fd50c65eb17269e"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.6.0</min><max>7.9.0</max></php><package><name>Mage_Adminhtml</name><channel>core</channel><min/><max/></package><package><name>Mage_Core</name><channel>core</channel><min/><max/></package><package><name>Mage_Directory</name><channel>core</channel><min/><max/></package></required></dependencies>
+</package>

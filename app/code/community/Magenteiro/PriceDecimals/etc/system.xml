@@ -1,0 +1,27 @@
+<config>
+    <tabs>
+        <catalog>
+
+        </catalog>
+    </tabs>
+    <sections>
+        <catalog>
+            <groups>
+                <price>
+                    <fields>
+                        <decimals>
+                            <label>Decimal Precision</label>
+                            <frontend_type>text</frontend_type>
+                            <validate>validate-digits</validate>
+                            <comment>Used to round prices</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>100</sort_order>
+                        </decimals>
+                    </fields>
+                </price>
+            </groups>
+        </catalog>
+    </sections>
+</config>
